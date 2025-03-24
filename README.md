@@ -1,11 +1,15 @@
-![twitter-banner](https://user-images.githubusercontent.com/21199947/171484036-73f10656-1c5e-4678-a4ec-44257918c8b8.png)
+![banner](https://github.com/user-attachments/assets/60f8c5a9-9da7-43ab-96f9-53ce229432ea)
 
-## Hey, I'm Nico 👋 - Founder of Ship SaaS
+## Hey, I'm Nico 👋
 
-I'm helping developers and entrepreneurs ship SaaS faster with [Ship SaaS](http://shipsaas.com) 🚀
+### Engineering lead | Part-time founder
 
+Currently, I'm leading a team of 9 software engineers at [Swapfiets](swapfiets.nl/en-NL).
 
-<a href="https://www.twitter.com/nwbotha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/nwbotha?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.github.com/Ngineer101" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/Ngineer101?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+In my free time, I'm running two (almost) profitable side projects:
+
+- [Supermeme.ai](https://supermeme.ai)
+- [Ship SaaS](http://shipsaas.com)
 
 ## I enjoy working with these technologies 👇
 
