@@ -8,8 +8,8 @@ Currently, I'm leading a team of 9 software engineers at [Swapfiets](swapfiets.n
 
 In my free time, I'm running two (almost) profitable side projects:
 
-- [Supermeme.ai](https://supermeme.ai)
-- [Ship SaaS](http://shipsaas.com)
+- [Supermeme.ai](https://supermeme.ai) - Generate memes with AI
+- [Ship SaaS](http://shipsaas.com) - Next.js and Supabase SaaS boilerplate
 
 ## I enjoy working with these technologies 👇
 
@@ -18,6 +18,6 @@ In my free time, I'm running two (almost) profitable side projects:
 ## Let's connect 👇
 
 <p align="left">
-  <a href="https://www.twitter.com/nwbotha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+  <a href="https://www.x.com/nwbotha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/nico-botha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
