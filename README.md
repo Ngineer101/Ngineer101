@@ -8,6 +8,6 @@ I'm an experienced software engineer and technical leader with a good track reco
 
 In my free time, I'm running a few (almost) profitable side-projects:
 
-- [TurboForm](https://turboform.ai) - Generate forms with AI
+- [TurboForm](https://github.com/turboform) - Generate forms with AI - open source Typeform alternative
 - [Supermeme.ai](https://supermeme.ai) - Generate memes with AI
 - [Ship SaaS](http://shipsaas.com) - Next.js and Supabase SaaS boilerplate
