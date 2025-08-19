@@ -4,7 +4,7 @@
 
 ### Engineering lead and full-stack software engineer
 
-I’m a senior full-stack product engineer and engineering leader with 8+ years of experience building and
+I’m a full-stack product engineer and engineering leader with 8+ years of experience building and
 scaling customer-facing applications across web, mobile, and microservices. I’m passionate about developer productivity, building software with
 measurable product outcomes, and generative AI.
 
