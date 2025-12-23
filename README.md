@@ -4,13 +4,13 @@
 
 ### Engineering lead and full-stack software engineer
 
-I’m a full-stack product engineer and engineering leader with 8+ years of experience building and
+I’m a full-stack product engineer and engineering leader with 10+ years of experience building and
 scaling customer-facing applications across web, mobile, and microservices. I’m passionate about developer productivity, building software with
 measurable product outcomes, and generative AI.
 
-Currently, I'm leading a team of 9 software engineers at [Swapfiets](https://swapfiets.nl/en-NL).
+Currently, I'm a lead engineer at [TryHackMe](https://tryhackme.com/) working on improving the user activation and engagement on the platform.
 
 In my free time, I'm hacking on a few side projects:
 
-- [TurboForm](https://github.com/turboform) - Generate forms with AI - open-source Typeform alternative
 - [Supermeme.ai](https://supermeme.ai) - Generate memes with AI
+- [Turbodoc](https://github.com/turbodoc-org) - Cross-platform bookmark manager
